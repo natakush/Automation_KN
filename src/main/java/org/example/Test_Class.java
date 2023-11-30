@@ -1,4 +1,4 @@
-package test_packege;
+package org.example;
 
 import com.github.javafaker.Faker;
 
